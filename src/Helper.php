@@ -6,7 +6,7 @@ class Helper
 {
 
     private $_string;
-
+    
     public function __construct()
     {
         $this->set_string();
