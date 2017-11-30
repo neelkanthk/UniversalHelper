@@ -1,0 +1,12 @@
+{
+    "name": "neelkanthk/universalhelper",
+    "description": "A helper library that contains helper methods made by developers from all over the world.",
+    "type": "library",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "UniversalHelper\\": "src/",
+            "MyProject\\": "myproject/"
+        }
+    }
+}
