@@ -2,7 +2,7 @@
 
 namespace UniversalHelper;
 
-final class String
+class String
 {
 
     /**
